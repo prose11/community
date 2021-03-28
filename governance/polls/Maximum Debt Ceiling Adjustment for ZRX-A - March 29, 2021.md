@@ -19,7 +19,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review 
 
-MKR Token Holders may vote in this poll to express support or opposition to adjusting the ZRX-A [Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/param-debt-ceiling):
+MKR Token Holders may vote in this poll to express support or opposition to adjusting the ZRX-A [Maximum Debt Ceiling](https://community-development.makerdao.com/en/learn/governance/module-dciam/):
 * Increase from 5 million DAI to 10 million DAI.
 
 Please review the discussion [thread](https://forum.makerdao.com/t/signal-request-adjust-zrx-a-dc-iam-line/6993) to inform your position on this issue before voting.
